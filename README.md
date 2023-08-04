@@ -1,3 +1,3 @@
-**# Destni**
-A small destniy app
+****# Destni****
+A small destiny app
 
